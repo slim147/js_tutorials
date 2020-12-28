@@ -1,1 +1,1 @@
-# js_tutorials
+# All javascript lessons and challenges goes here
